@@ -1,0 +1,74 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"heading": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "heading1",
+						"content": {
+							"text": "Nabierz wiatru w żagle, spełnij marzenia",
+							"spans": []
+						},
+						"direction": "ltr"
+					}
+				]
+			},
+			"body": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Wykorzystaj swoją pasję i pieniądze, by ruszyć naprzód i dążyć do tego, co cię uskrzydla.",
+							"spans": []
+						},
+						"direction": "ltr"
+					}
+				]
+			},
+			"image": {
+				"provider": "imgix",
+				"url": "",
+				"alt": "rocket ship photography",
+				"origin": {
+					"id": "uj3hvdfQujI",
+					"url": "",
+					"width": 3000,
+					"height": 2000
+				},
+				"width": 3000,
+				"height": 2000,
+				"edit": {
+					"background": "transparent",
+					"zoom": 1,
+					"crop": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"credits": null,
+				"__TYPE__": "ImageContent",
+				"thumbnails": {}
+			},
+			"ctas": {
+				"__TYPE__": "RepeatableContent",
+				"type": "Link",
+				"value": [
+					{
+						"key": "fca88cca-48a6-464b-a9c7-87b0ff4eb6da",
+						"__TYPE__": "LinkContent",
+						"value": {
+							"__TYPE__": "ExternalLink",
+							"url": "https://slicemachine.dev",
+							"text": "Zrób pierwszy krok"
+						}
+					}
+				]
+			}
+		},
+		"items": []
+	}
+]
