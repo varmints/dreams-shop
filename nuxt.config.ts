@@ -53,6 +53,7 @@ export default defineNuxtConfig({
     "@nuxt/image",
     "@vueuse/nuxt",
     "@shopware/nuxt-module",
+    "@nuxthub/core",
   ],
 
   prismic: {

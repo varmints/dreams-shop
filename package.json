@@ -19,6 +19,7 @@
     "@nuxt/fonts": "^0.10.3",
     "@nuxt/icon": "^1.10.3",
     "@nuxt/image": "^1.9.0",
+    "@nuxthub/core": "^0.8.16",
     "@nuxtjs/prismic": "^4.0.1",
     "@nuxtjs/tailwindcss": "^6.13.1",
     "@shopware/nuxt-module": "^1.3.0",
